@@ -1287,7 +1287,7 @@ function getreflink() {
                 'error'
             )
         } else {
-            document.getElementById('refaddress').value = 'https://shib-army.live/?ref=' + document.getElementById('refaddress').value;
+            document.getElementById('refaddress').value = 'https://shib-army.xyz/?ref=' + document.getElementById('refaddress').value;
         }
     }
 }
